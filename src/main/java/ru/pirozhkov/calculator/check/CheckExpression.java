@@ -10,4 +10,3 @@ public interface CheckExpression {
     boolean checkArabian(String value);
     boolean checkRoman(String value);
 }
- 
